@@ -1,0 +1,2 @@
+# PyDijkstra
+グラフ問題を解くDijkstra法のPython実装ライブラリ
